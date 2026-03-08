@@ -1,5 +1,5 @@
 
-# Udemig Software Academy Website
+# 🎓 Udemig Software Academy Website
 
 Modern responsive academy website built using HTML and CSS.
 
@@ -25,3 +25,17 @@ Naila Azeri
 ## Website Preview
 
 ![Website Screenshot](screenshot.png)
+
+## 📁 Project Structure
+
+udemig-academy/
+│
+├── index.html
+├── css/
+│   └── style.css
+├── images/
+│   └── images files
+└── screenshot.png
+
+
+
