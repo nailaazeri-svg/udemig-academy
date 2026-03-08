@@ -19,3 +19,7 @@ https://nailaazeri-svg.github.io/udemig-academy/
 
 ## Author
 Naila Azeri
+
+## Website Preview
+
+![Website Screenshot](screenshot.png)
