@@ -19,8 +19,11 @@ Modern responsive academy website built using HTML and CSS.
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
 ![Flexbox](https://img.shields.io/badge/Layout-Flexbox-purple)
 
-## Author
-Naila Azeri
+## 👩‍💻 Author
+
+**Naila Azeri**  
+Junior Frontend Developer  
+Based in Sweden
 
 ## Website Preview
 
