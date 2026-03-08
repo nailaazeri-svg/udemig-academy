@@ -7,7 +7,7 @@ Modern responsive academy website built using HTML and CSS.
 
 🔗 https://nailaazeri-svg.github.io/udemig-academy/
 
-## Features
+## ✨ Features
 - Responsive design
 - Flexbox layout
 - Hover animations
