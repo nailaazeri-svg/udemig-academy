@@ -3,8 +3,9 @@
 
 Modern responsive academy website built using HTML and CSS.
 
-## Live Website
-https://nailaazeri-svg.github.io/udemig-academy/
+## 🚀 Live Demo
+
+🔗 https://nailaazeri-svg.github.io/udemig-academy/
 
 ## Features
 - Responsive design
